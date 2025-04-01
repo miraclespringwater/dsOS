@@ -81,9 +81,6 @@ hunspell-en_us
 ifuse
 inetutils
 inkscape
-intel-graphics-compiler
-intel-media-driver
-intel-ucode
 iotop-c
 iperf3
 iptables-nft
