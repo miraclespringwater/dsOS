@@ -102,9 +102,6 @@ libsass
 libtool
 libva-intel-driver
 libvirt
-linux-firmware
-linux-zen
-linux-zen-headers
 lxappearance
 lxinput
 ly
