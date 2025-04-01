@@ -1,0 +1,6 @@
+blueman-applet.service
+dconf.service
+pipewire-pulse.service
+pipewire.service
+syncthing.service
+wireplumber.service

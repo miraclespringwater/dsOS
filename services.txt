@@ -1,0 +1,9 @@
+acpid.service
+auto-cpufreq.service
+bluetooth.service
+cronie.service
+libvirtd.service
+ly.service
+NetworkManager.service
+polkit.service
+wpa_supplicant.service
