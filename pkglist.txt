@@ -170,7 +170,6 @@ slock
 smartmontools
 sof-firmware
 spectacle
-steam
 stylua
 sudo
 sxiv
@@ -210,7 +209,6 @@ which
 wireless_tools
 wireplumber
 wmctrl
-xautolock
 xcolor
 xf86-input-evdev
 xf86-input-synaptics
