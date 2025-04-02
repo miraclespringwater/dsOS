@@ -5,10 +5,8 @@ backlight_control
 balena-etcher
 bibletime-git
 brave-bin
-caffeine
 cava
 cfetch
-compiledb
 cutefetch
 fm6000
 freshfetch-bin
@@ -27,15 +25,12 @@ libfreenect2
 losslesscut-bin
 moar
 moc-lyrics-git
-mongodb-bin
-mongodb-compass
 ms-sys
 nerdfetch
 network-manager-applet-nolibappindicator
 nomacs
 nvim-packer-git
 nvm
-obexftp
 openni
 pa-applet-git
 pam-gnupg
