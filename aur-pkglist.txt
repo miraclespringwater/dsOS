@@ -26,7 +26,6 @@ network-manager-applet-nolibappindicator
 nomacs
 nvim-packer-git
 nvm
-openni
 pa-applet-git
 pam-gnupg
 pfetch
