@@ -2,7 +2,6 @@ abook
 afetch
 archlinux-java-run
 backlight_control
-balena-etcher
 bibletime-git
 brave-bin
 cava
@@ -15,16 +14,12 @@ gruvbox-dark-icons-gtk
 gruvbox-icon-theme
 gruvbox-material-gtk-theme-git
 gruvbox-material-icon-theme-git
-gstreamermm
 gtk-theme-switch2
 i3lock-color-git
 i3lock-fancy-git
 langfetch
-libfreenect
-libfreenect2
 losslesscut-bin
 moar
-moc-lyrics-git
 ms-sys
 nerdfetch
 network-manager-applet-nolibappindicator
@@ -36,7 +31,6 @@ pa-applet-git
 pam-gnupg
 pfetch
 piper-tts-bin
-postman-bin
 qt5-styleplugins
 realvnc-vnc-viewer
 rolo
@@ -55,4 +49,3 @@ xcursor-simp1e-gruvbox-dark
 xdg-ninja
 xidlehook
 xmind
-zoom
